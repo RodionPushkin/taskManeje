@@ -1,0 +1,11 @@
+/* В этом файле пишем анимации CSS */
+@keyframes card_date_pulse {
+    0%{
+        height: 1px;
+        opacity: 1;
+    }
+    100%{
+        height: 60px;
+        opacity: 0;
+    }
+}
